@@ -1,6 +1,3 @@
-Claro! Aqui está o texto reescrito em **formato clean** e **sem firulas**, pronto para copiar e colar diretamente em apresentações, relatórios ou outros documentos:
-
----
 
 ## 📊 Análise de Evasão de Clientes (Churn Prediction)
 
